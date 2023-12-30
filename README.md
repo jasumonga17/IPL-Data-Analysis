@@ -5,7 +5,7 @@
 **Tech Stack Used:**
 
 **Language**: Python
-
+**Libraries Used**: Seaborn and Matplotlib
 
 
 
